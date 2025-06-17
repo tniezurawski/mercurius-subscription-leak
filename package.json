@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "dependencies": {
+    "@faker-js/faker": "^9.8.0",
+    "@graphql-tools/schema": "^10.0.23",
+    "fastify": "^4.29.0",
+    "graphql": "^16.11.0",
+    "graphql-redis-subscriptions": "^2.7.0",
+    "graphql-tag": "^2.12.6",
+    "mercurius": "^14.1.0"
+  },
+  "devDependencies": {
+    "prettier": "^3.5.3"
+  }
+}
